@@ -32,17 +32,17 @@ I’m very glad that fate brought me together with Frontend Development because 
 
 ### Skills:
 
-<img src="img/html5-icon.svg" title="HTML" width="40" height="40"/>&nbsp;
-<img src="img/pug-icon.svg" title="Pug" width="40" height="40"/>&nbsp;
-<img src="img/css3-icon.svg" title="CSS" width="40" height="40"/>&nbsp;
-<img src="img/sass-icon.svg" title="SASS" width="40" height="40"/>&nbsp;
-<img src="img/bem-icon.svg" title="BEM" width="40" height="40"/>&nbsp;
-<img src="img/js-icon.svg" title="JavaScript" width="40" height="40"/>&nbsp;
-<img src="img/gulp-icon.svg" title="Gulp" width="40" height="40"/>&nbsp;
-<img src="img/webpack-icon.svg" title="Webpack" width="40" height="40"/>&nbsp;
-<img src="img/git-icon.svg" title="Git" width="40" height="40"/>&nbsp;
-<img src="img/figma-icon.svg" title="Figma" width="40" height="40"/>&nbsp;
-<img src="img/vsc-icon.svg" title="Visual Studio Code" width="40" height="40"/>&nbsp;
+<img src="img/html5-icon.svg" title="HTML" width="40" height="40"/>&nbsp;&nbsp;
+<img src="img/pug-icon.svg" title="Pug" width="40" height="40"/>&nbsp;&nbsp;
+<img src="img/css3-icon.svg" title="CSS" width="40" height="40"/>&nbsp;&nbsp;
+<img src="img/sass-icon.svg" title="SASS" width="40" height="40"/>&nbsp;&nbsp;
+<img src="img/bem-icon.svg" title="BEM" width="40" height="40"/>&nbsp;&nbsp;
+<img src="img/js-icon.svg" title="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
+<img src="img/gulp-icon.svg" title="Gulp" width="40" height="40"/>&nbsp;&nbsp;
+<img src="img/webpack-icon.svg" title="Webpack" width="40" height="40"/>&nbsp;&nbsp;
+<img src="img/git-icon.svg" title="Git" width="40" height="40"/>&nbsp;&nbsp;
+<img src="img/figma-icon.svg" title="Figma" width="40" height="40"/>&nbsp;&nbsp;
+<img src="img/vsc-icon.svg" title="Visual Studio Code" width="40" height="40"/>&nbsp;&nbsp;
 
 ---
 
