@@ -31,7 +31,6 @@ I’m very glad that fate brought me together with Frontend Development because 
 ---
 
 ### Skills:
-
 <img src="img/html5-icon.svg" title="HTML" width="40" height="40"/>&nbsp;&nbsp;
 <img src="img/pug-icon.svg" title="Pug" width="40" height="40"/>&nbsp;&nbsp;
 <img src="img/css3-icon.svg" title="CSS" width="40" height="40"/>&nbsp;&nbsp;
@@ -47,6 +46,8 @@ I’m very glad that fate brought me together with Frontend Development because 
 ---
 
 ### Stats:
+[![codewars](https://www.codewars.com/users/CendresChaudes/badges/large)](https://www.codewars.com/users/CendresChaudes)
+
 <div style="display: flex; justify-content: space-between">
   <img 
     height=200
