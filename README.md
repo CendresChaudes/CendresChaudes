@@ -41,7 +41,7 @@ I’m very glad that fate brought me together with Frontend Development because 
 <img src="img/ts-icon.svg" title="TypeScript" width="40" height="40"/>&nbsp;&nbsp;
 <img src="img/react-icon.svg" title="React" width="40" height="40"/>&nbsp;&nbsp;
 <img src="img/redux-icon.svg" title="Redux (RTK)" width="40" height="40"/>&nbsp;&nbsp;
-<img src="img/fsd-icon.png" title="Feature-Sliced Design" width="100" height="40"/>&nbsp;&nbsp;
+<img src="img/fsd-icon.png" title="Feature-Sliced Design" width="97" height="37"/>&nbsp;&nbsp;
 <img src="img/gulp-icon.svg" title="Gulp" width="40" height="40"/>&nbsp;&nbsp;
 <img src="img/webpack-icon.svg" title="Webpack" width="40" height="40"/>&nbsp;&nbsp;
 
