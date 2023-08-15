@@ -25,7 +25,7 @@ I’m very glad that fate brought me together with Frontend Development because 
 ---
 
 ### Plans:
-* Learn **TypeScript, React, Redux, Jest, Axios and FSD**
+* Learn **Jest, Next**
 * Upgrade my English skills to B2-level
   
 ---
@@ -38,11 +38,12 @@ I’m very glad that fate brought me together with Frontend Development because 
 <img src="img/sass-icon.svg" title="SASS" width="40" height="40"/>&nbsp;
 <img src="img/bem-icon.svg" title="BEM" width="40" height="40"/>&nbsp;
 <img src="img/js-icon.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+<img src="img/ts-icon.svg" title="TypeScript" width="40" height="40"/>&nbsp;
+<img src="img/react-icon.svg" title="React" width="40" height="40"/>&nbsp;
+<img src="img/fsd-icon.svg" title="Feature-Sliced Design" width="90" height="40"/>&nbsp;
+<img src="img/redux-icon.svg" title="Redux (RTK)" width="40" height="40"/>&nbsp;
 <img src="img/gulp-icon.svg" title="Gulp" width="40" height="40"/>&nbsp;
 <img src="img/webpack-icon.svg" title="Webpack" width="40" height="40"/>&nbsp;
-<img src="img/git-icon.svg" title="Git" width="40" height="40"/>&nbsp;
-<img src="img/figma-icon.svg" title="Figma" width="40" height="40"/>&nbsp;
-<img src="img/vsc-icon.svg" title="Visual Studio Code" width="40" height="40"/>&nbsp;
 
 ---
 
