@@ -48,6 +48,8 @@ I’m very glad that fate brought me together with Frontend Development because 
 ---
 
 ### Stats:
+[![codewars](https://www.codewars.com/users/CendresChaudes/badges/large)](https://www.codewars.com/users/CendresChaudes)
+
 <div style="display: flex; justify-content: space-between">
   <img 
     height=200
