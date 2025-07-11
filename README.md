@@ -1,62 +1,37 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm  Roman</h1>
-    <h3>Frontend Developer from Saint-Petersburg</h3>
+    <h1>Welcome <3</h1>
 </div>
 
 <div id="socials" align="center">
+    <a href="mailto:romqaaa1337@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-6f24db?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
     <a href="https://www.linkedin.com/in/роман-пронин-860467273/">
-    <img src="https://img.shields.io/badge/LinkedIn-fe8f07?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:romqaaa1337@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-800080?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://t.me/cendres_chaudes">
-    <img src="https://img.shields.io/badge/Telegram-fe8f07?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
+        <img src="https://img.shields.io/badge/LinkedIn-6f24db?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://t.me/cendres_chaudes">
+        <img src="https://img.shields.io/badge/Telegram-6f24db?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"v/>
+    </a>
 </div>
 
-### About me:
-My name is Roman and I’m from Russia from not sunny Saint-Petersburg. I’m a railway engineer by education and managed to work on the construction of the subway and the design of bridges...but later I discovered world of IT.
+<br/>
 
-My first acquaintance with IT began with Python and MySQL. After this I wanted to sample frontend stack and I really liked it!
+## 👾 About me
 
-I’m very glad that fate brought me together with Frontend Development because it’s very cool and I love it — it’s not just a job but also a hobby.
-  
----
+-   :brain: Web Fullstack Developer & iOS Development Enthusiast
+-   :heart: I love Apple products, playing games and UI development
+-   :books: Currently studying iOS more deeply
 
-### Plans:
-* Learn **Jest, Next**
-* Upgrade my English skills to B2-level
-  
----
 
-### Skills:
+## 🛠 Tech stack
 
-<img src="img/html5-icon.svg" title="HTML" width="40" height="40"/>&nbsp;&nbsp;
-<img src="img/pug-icon.svg" title="Pug" width="40" height="40"/>&nbsp;&nbsp;
-<img src="img/css3-icon.svg" title="CSS" width="40" height="40"/>&nbsp;&nbsp;
-<img src="img/sass-icon.svg" title="SCSS" width="40" height="40"/>&nbsp;&nbsp;
-<img src="img/bem-icon.svg" title="BEM" width="40" height="40"/>&nbsp;&nbsp;
-<img src="img/js-icon.svg" title="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
-<img src="img/ts-icon.svg" title="TypeScript" width="40" height="40"/>&nbsp;&nbsp;
-<img src="img/react-icon.svg" title="React" width="40" height="40"/>&nbsp;&nbsp;
-<img src="img/redux-icon.svg" title="Redux (RTK)" width="40" height="40"/>&nbsp;&nbsp;
-<img src="img/fsd-icon.png" title="Feature-Sliced Design" width="97" height="37"/>&nbsp;&nbsp;
-<img src="img/gulp-icon.svg" title="Gulp" width="40" height="40"/>&nbsp;&nbsp;
-<img src="img/webpack-icon.svg" title="Webpack" width="40" height="40"/>&nbsp;&nbsp;
+| 💻 **Specialization** | 🚀 **Skills**                                                                                                                                                   |
+| - | - |
+| iOS | <img src="https://img.shields.io/badge/Swift-black?logo=swift&logoColor=F05138" alt="Swift logo" title="Swift" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/UIKit-black?logo=apple&logoColor=ffffff" alt="UIKit logo" title="UIKit" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CoreData-black?logo=apple&logoColor=ffffff" alt="CoreData logo" title="CoreData" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Alamofire-black?logo=apple&logoColor=ffffff" alt="Alamofire logo" title="Alamofire" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/MVC-black?logo=apple&logoColor=ffffff" alt="MVC logo" title="MVC" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/MVVM-black?logo=apple&logoColor=ffffff" alt="MVVM logo" title="MVVM" height="25" />&nbsp;&nbsp; |
+| Frontend |  <img src="https://img.shields.io/badge/HTML-black?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Pug-black?logo=pug&logoColor=A86454" alt="Pug logo" title="Pug" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS-black?logo=css&logoColor=663399" alt="CSS logo" title="CSS" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/SCSS-black?logo=sass&logoColor=CC6699" alt="SCSS logo" title="SCSS" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/BEM-black?logo=bem&logoColor=ffffff" alt="BEM logo" title="BEM" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Tailwind-black?logo=tailwind-css&logoColor=cyan" alt="Tailwind logo" title="Tailwind" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-black?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/RHF-black?logo=reacthookform&logoColor=EC5990" alt="React Hook Form logo" title="React Hook Form" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Redux-black?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/FSD-black?logo=react&logoColor=61DAFB" alt="FSD logo" title="FSD" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Vite-black?logo=vite&logoColor=646CFF" alt="Vite logo" title="Vite" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Vitest-black?logo=vitest&logoColor=6E9F18" alt="Vitest logo" title="Vitest" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/AntDesign-black?logo=antdesign&logoColor=0170FE" alt="AntDesign logo" title="AntDesign" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Storybook-black?logo=storybook&logoColor=FF4785" alt="Storybook logo" title="Storybook" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/MSW-black?logo=mockserviceworker&logoColor=FF6A33" alt="MSW logo" title="MSW" height="25" /> |
+| Backend |  <img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/NodeJS-black?logo=nodedotjs&logoColor=5FA04E" alt="NodeJS logo" title="NodeJS" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Nest-black?logo=nestjs&logoColor=E0234E" alt="Nest logo" title="Nest" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeORM-black?logo=typeorm&logoColor=FE0803" alt="TypeORM logo" title="TypeORM" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Swagger-black?logo=swagger&logoColor=85EA2D" alt="Swagger logo" title="Swagger" height="25" />&nbsp;&nbsp; |                                                                                                                                                                                                                                                                                                                                                     |
 
----
 
-### Stats:
-[![codewars](https://www.codewars.com/users/CendresChaudes/badges/large)](https://www.codewars.com/users/CendresChaudes)
+## 📖 Stats
 
-<div style="display: flex; justify-content: space-between">
-  <img 
-    height=200
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CendresChaudes&hide=python&langs_count=6&layout=donut&title_color=800080&text_color=000000&border_color=fe8f07"
-  > 
-  <img 
-    height=200
-    src="https://github-readme-stats.vercel.app/api?username=CendresChaudes&rank_icon=github&show_icons=true&title_color=800080&text_color=000000&border_color=fe8f07&icon_color=800080"
-  > 
-</div>
+[![Codewars](https://www.codewars.com/users/CendresChaudes/badges/large)](https://www.codewars.com/users/CendresChaudes)
