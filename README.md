@@ -20,7 +20,7 @@
 
 -   :brain: Web Fullstack Developer & iOS Development Enthusiast
 -   :heart: I love Apple products, playing games and UI development
--   :books: Currently studying iOS more deeply
+-   :books: Currently studying iOS Development more deeply
 
 
 ## 🛠 Tech stack
