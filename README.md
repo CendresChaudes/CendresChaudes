@@ -22,7 +22,6 @@
 -   :heart: I love Apple products, playing games and UI development
 -   :books: Currently studying Web Development more deeply
 
-![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=for-the-badge)
 ## 🛠 Tech stack
 
 | 💻 **Groups**| 🚀 **Languages and Tools**                                                                                                                                                   |
