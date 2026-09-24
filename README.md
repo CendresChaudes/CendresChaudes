@@ -28,7 +28,7 @@
 
 | 💻 **Groups** | 🚀 **Languages and Tools** |
 | - | - |
-| Frontend | ![HTML][html]&nbsp;&nbsp;![Pug][pug]&nbsp;&nbsp;![CSS][css]&nbsp;&nbsp;![SCSS][scss]&nbsp;&nbsp;![BEM][bem]&nbsp;&nbsp;![TailwindCSS][tailwind]&nbsp;&nbsp;![UnoCSS][unocss]&nbsp;&nbsp;![TypeScript][typescript]&nbsp;&nbsp;![React][react]&nbsp;&nbsp;![React Hook Form][react-hook-form]&nbsp;&nbsp;![Redux][redux]&nbsp;&nbsp;![MobX][mobx]&nbsp;&nbsp;![Tanstack][tanstack]&nbsp;&nbsp;![Rspack][rspack]&nbsp;&nbsp;![Vite][vite]&nbsp;&nbsp;![Vitest][vitest]&nbsp;&nbsp;![Playwright][playwright]&nbsp;&nbsp;![AntDesign][antdesign]&nbsp;&nbsp;![Mantine][mantine]&nbsp;&nbsp;![Storybook][storybook]&nbsp;&nbsp;![MSW][msw]&nbsp;&nbsp;![MVC][mvc]&nbsp;&nbsp;![MVP][mvp]&nbsp;&nbsp;![MVVM][mvvm]&nbsp;&nbsp;![Modular][modular]&nbsp;&nbsp;![FSD][fsd]&nbsp;&nbsp;![Page-first][page-first]&nbsp;&nbsp;![Hono][hono]&nbsp;&nbsp;![Cursor][cursor]&nbsp;&nbsp;![Figma][figma]&nbsp;&nbsp;![Pixso][pixso] |
+| Frontend | ![HTML][html]&nbsp;&nbsp;![Pug][pug]&nbsp;&nbsp;![CSS][css]&nbsp;&nbsp;![SCSS][scss]&nbsp;&nbsp;![BEM][bem]&nbsp;&nbsp;![TailwindCSS][tailwind]&nbsp;&nbsp;![UnoCSS][unocss]&nbsp;&nbsp;![TypeScript][typescript]&nbsp;&nbsp;![React][react]&nbsp;&nbsp;![React Hook Form][react-hook-form]&nbsp;&nbsp;![Redux][redux]&nbsp;&nbsp;![MobX][mobx]&nbsp;&nbsp;![Tanstack][tanstack]&nbsp;&nbsp;![Rspack][rspack]&nbsp;&nbsp;![Vite][vite]&nbsp;&nbsp;![Vitest][vitest]&nbsp;&nbsp;![Playwright][playwright]&nbsp;&nbsp;![AntDesign][antdesign]&nbsp;&nbsp;![Mantine][mantine]&nbsp;&nbsp;![Storybook][storybook]&nbsp;&nbsp;![MSW][msw]&nbsp;&nbsp;![MVC][mvc]&nbsp;&nbsp;![MVP][mvp]&nbsp;&nbsp;![MVVM][mvvm]&nbsp;&nbsp;![Modular][modular]&nbsp;&nbsp;![FSD][fsd]&nbsp;&nbsp;![Page-first][page-first]&nbsp;&nbsp;![Figma][figma]&nbsp;&nbsp;![Pixso][pixso] |
 | Backend | ![NodeJS][nodejs]&nbsp;&nbsp;![Nest][nest]&nbsp;&nbsp;![TypeORM][typeorm]&nbsp;&nbsp;![Swagger][swagger]&nbsp;&nbsp;![PostgreSQL][postgresql]&nbsp;&nbsp;![DataGrip][datagrip]&nbsp;&nbsp;![Postman][postman] |
 | AI | ![Cursor][cursor-ai]&nbsp;&nbsp;![Context Window Management][context-window]&nbsp;&nbsp;![Rules][rules]&nbsp;&nbsp;![Skills][skills]&nbsp;&nbsp;![Commands][commands]&nbsp;&nbsp;![Subagents][subagents] |
 | General | ![NPM][npm]&nbsp;&nbsp;![PNPM][pnpm]&nbsp;&nbsp;![Docker][docker]&nbsp;&nbsp;![Git][git] |
@@ -62,7 +62,6 @@
 [storybook]: https://img.shields.io/badge/Storybook-black?logo=storybook&logoColor=FF4785
 [msw]: https://img.shields.io/badge/MSW-black?logo=mockserviceworker&logoColor=FF6A33
 [nodejs]: https://img.shields.io/badge/NodeJS-black?logo=nodedotjs&logoColor=5FA04E
-[hono]: https://img.shields.io/badge/Hono-black?logo=hono&logoColor=E36002
 [nest]: https://img.shields.io/badge/Nest-black?logo=nestjs&logoColor=E0234E
 [typeorm]: https://img.shields.io/badge/TypeORM-black?logo=typeorm&logoColor=FE0803
 [swagger]: https://img.shields.io/badge/Swagger-black?logo=swagger&logoColor=85EA2D
