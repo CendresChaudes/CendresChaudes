@@ -18,19 +18,73 @@
 
 ## 👾 About me
 
--   :brain: Frontend Developer
--   :heart: I love Apple products, playing games and UI development
--   :books: Currently studying Web Development more deeply
+- :brain: Frontend Developer
+- :heart: I love Apple products, playing games and UI development
+- :books: Currently studying Web Development more deeply
 
 ## 🛠 Tech stack
 
-| 💻 **Groups**| 🚀 **Languages and Tools**                                                                                                                                                   |
+| 💻 **Groups** | 🚀 **Languages and Tools** |
 | - | - |
-| Frontend |  <img src="https://img.shields.io/badge/HTML-black?logo=html5&logoColor=E34F26" alt="HTML logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Pug-black?logo=pug&logoColor=A86454" alt="Pug logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS-black?logo=css&logoColor=663399" alt="CSS logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/SCSS-black?logo=sass&logoColor=CC6699" alt="SCSS logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/BEM-black?logo=bem&logoColor=ffffff" alt="BEM logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TailwindCSS-black?logo=tailwind-css&logoColor=cyan" alt="TailwindCSS logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/UnoCSS-black?logo=unocss&logoColor=fff&style=flat" alt="UnoCSS logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=3178C6" alt="TypeScript logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-black?logo=react&logoColor=61DAFB" alt="React logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React Hook Form-black?logo=reacthookform&logoColor=EC5990" alt="React Hook Form logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Redux-black?logo=redux&logoColor=764ABC" alt="Redux logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/MobX-black?logo=mobx&logoColor=F95" alt="Mobx logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Tanstack-black?logo=tanstack&logoColor=FF4154" alt="Tanstack logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Rspack-black?logo=webpack&logoColor=F95" alt="Rspack logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Vite-black?logo=vite&logoColor=646CFF" alt="Vite logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Vitest-black?logo=vitest&logoColor=6E9F18" alt="Vitest logo" height="25" />&nbsp;&nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Playwright-black?logo=playwright&logoColor=2EAD33" alt="Playwright logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/AntDesign-black?logo=antdesign&logoColor=0170FE" alt="AntDesign logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Mantine-black?logo=mantine&logoColor=61DAFB" alt="AntDesign logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Storybook-black?logo=storybook&logoColor=FF4785" alt="Storybook logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/MSW-black?logo=mockserviceworker&logoColor=FF6A33" alt="MSW logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/NodeJS-black?logo=nodedotjs&logoColor=5FA04E" alt="NodeJS logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Nest-black?logo=nestjs&logoColor=E0234E" alt="Nest logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeORM-black?logo=typeorm&logoColor=FE0803" alt="TypeORM logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Swagger-black?logo=swagger&logoColor=85EA2D" alt="Swagger logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/MVC-black?logo=task&logoColor=61DAFB" alt="MVC logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/MVP-black?logo=task&logoColor=61DAFB" alt="MVP logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/MVVM-black?logo=task&logoColor=61DAFB" alt="MVVM logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Modular-black?logo=task&logoColor=61DAFB" alt="Modular arch logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/FSD-black?logo=task&logoColor=61DAFB" alt="FSD arch logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Page--first-black?logo=task&logoColor=61DAFB" alt="Page-first pattern logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Cursor-black?logo=cursor&logoColor=fff" alt="Cursor logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Figma-black?logo=figma&logoColor=FF4785" alt="Figma logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Pixso-black?logo=pixiv&logoColor=FF4785" alt="Pixso logo" height="25" /> |
-| Backend |  <img src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/DataGrip-black?logo=datagrip&logoColor=fff" alt="DataGrip logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Postman-black?logo=postman&logoColor=FF6C37" alt="Postman logo" height="25" /> |                                                                                                                
-| iOS | <img src="https://img.shields.io/badge/Swift-black?logo=swift&logoColor=F05138" alt="Swift logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/UIKit-black?logo=apple&logoColor=FFFFFF" alt="UIKit logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/SnapKit-black?logo=apple&logoColor=ffffff" alt="SnapKit logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CoreData-black?logo=apple&logoColor=ffffff" alt="CoreData logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Xcode-black?logo=xcode&logoColor=147EFB" alt="Xcode logo" height="25" /> |
-| General |  <img src="https://img.shields.io/badge/NPM-black?logo=npm&logoColor=CB3837" alt="NPM logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/PNPM-black?logo=pnpm&logoColor=F69220" alt="PNPM logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-black?logo=docker&logoColor=2496ED" alt="Docker logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=F05032" alt="Git logo" height="25" /> |                                                                                                                                                                                                                                                                                                                                                     |
-| AI |  <img src="https://img.shields.io/badge/Cursor-black?logo=probot&logoColor=61DAFB" alt="Cursor logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Context Window Management-black?logo=probot&logoColor=61DAFB" alt="Context Window Management logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Rules-black?logo=probot&logoColor=61DAFB" alt="Rules logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Skills-black?logo=probot&logoColor=61DAFB" alt="Skills logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Commands-black?logo=probot&logoColor=61DAFB" alt="Commands logo" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Subagents-black?logo=probot&logoColor=61DAFB" alt="Subagents logo" height="25" />|                                                                                                                                                                                                                                                                                                                                                     |
+| Frontend | ![HTML][html]&nbsp;&nbsp;![Pug][pug]&nbsp;&nbsp;![CSS][css]&nbsp;&nbsp;![SCSS][scss]&nbsp;&nbsp;![BEM][bem]&nbsp;&nbsp;![TailwindCSS][tailwind]&nbsp;&nbsp;![UnoCSS][unocss]&nbsp;&nbsp;![TypeScript][typescript]&nbsp;&nbsp;![React][react]&nbsp;&nbsp;![React Hook Form][react-hook-form]&nbsp;&nbsp;![Redux][redux]&nbsp;&nbsp;![MobX][mobx]&nbsp;&nbsp;![Tanstack][tanstack]&nbsp;&nbsp;![Rspack][rspack]&nbsp;&nbsp;![Vite][vite]&nbsp;&nbsp;![Vitest][vitest]&nbsp;&nbsp;![Playwright][playwright]&nbsp;&nbsp;![AntDesign][antdesign]&nbsp;&nbsp;![Mantine][mantine]&nbsp;&nbsp;![Storybook][storybook]&nbsp;&nbsp;![MSW][msw]&nbsp;&nbsp;![NodeJS][nodejs]&nbsp;&nbsp;![Nest][nest]&nbsp;&nbsp;![TypeORM][typeorm]&nbsp;&nbsp;![Swagger][swagger]&nbsp;&nbsp;![MVC][mvc]&nbsp;&nbsp;![MVP][mvp]&nbsp;&nbsp;![MVVM][mvvm]&nbsp;&nbsp;![Modular][modular]&nbsp;&nbsp;![FSD][fsd]&nbsp;&nbsp;![Page-first][page-first]&nbsp;&nbsp;![Cursor][cursor]&nbsp;&nbsp;![Figma][figma]&nbsp;&nbsp;![Pixso][pixso] |
+| Backend | ![PostgreSQL][postgresql]&nbsp;&nbsp;![DataGrip][datagrip]&nbsp;&nbsp;![Postman][postman] |
+| iOS | ![Swift][swift]&nbsp;&nbsp;![UIKit][uikit]&nbsp;&nbsp;![SnapKit][snapkit]&nbsp;&nbsp;![CoreData][coredata]&nbsp;&nbsp;![Xcode][xcode] |
+| General | ![NPM][npm]&nbsp;&nbsp;![PNPM][pnpm]&nbsp;&nbsp;![Docker][docker]&nbsp;&nbsp;![Git][git] |
+| AI | ![Cursor][cursor-ai]&nbsp;&nbsp;![Context Window Management][context-window]&nbsp;&nbsp;![Rules][rules]&nbsp;&nbsp;![Skills][skills]&nbsp;&nbsp;![Commands][commands]&nbsp;&nbsp;![Subagents][subagents] |
+
+[html]: https://img.shields.io/badge/HTML-black?logo=html5&logoColor=E34F26
+[pug]: https://img.shields.io/badge/Pug-black?logo=pug&logoColor=A86454
+[css]: https://img.shields.io/badge/CSS-black?logo=css&logoColor=663399
+[scss]: https://img.shields.io/badge/SCSS-black?logo=sass&logoColor=CC6699
+[bem]: https://img.shields.io/badge/BEM-black?logo=bem&logoColor=ffffff
+[tailwind]: https://img.shields.io/badge/TailwindCSS-black?logo=tailwind-css&logoColor=cyan
+[unocss]: https://img.shields.io/badge/UnoCSS-black?logo=unocss&logoColor=fff&style=flat
+[typescript]: https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=3178C6
+[react]: https://img.shields.io/badge/React-black?logo=react&logoColor=61DAFB
+[react-hook-form]: https://img.shields.io/badge/React%20Hook%20Form-black?logo=reacthookform&logoColor=EC5990
+[redux]: https://img.shields.io/badge/Redux-black?logo=redux&logoColor=764ABC
+[mobx]: https://img.shields.io/badge/MobX-black?logo=mobx&logoColor=F95
+[tanstack]: https://img.shields.io/badge/Tanstack-black?logo=tanstack&logoColor=FF4154
+[rspack]: https://img.shields.io/badge/Rspack-black?logo=webpack&logoColor=F95
+[vite]: https://img.shields.io/badge/Vite-black?logo=vite&logoColor=646CFF
+[vitest]: https://img.shields.io/badge/Vitest-black?logo=vitest&logoColor=6E9F18
+[playwright]: https://custom-icon-badges.demolab.com/badge/Playwright-black?logo=playwright&logoColor=2EAD33
+[antdesign]: https://img.shields.io/badge/AntDesign-black?logo=antdesign&logoColor=0170FE
+[mantine]: https://img.shields.io/badge/Mantine-black?logo=mantine&logoColor=61DAFB
+[storybook]: https://img.shields.io/badge/Storybook-black?logo=storybook&logoColor=FF4785
+[msw]: https://img.shields.io/badge/MSW-black?logo=mockserviceworker&logoColor=FF6A33
+[nodejs]: https://img.shields.io/badge/NodeJS-black?logo=nodedotjs&logoColor=5FA04E
+[nest]: https://img.shields.io/badge/Nest-black?logo=nestjs&logoColor=E0234E
+[typeorm]: https://img.shields.io/badge/TypeORM-black?logo=typeorm&logoColor=FE0803
+[swagger]: https://img.shields.io/badge/Swagger-black?logo=swagger&logoColor=85EA2D
+[mvc]: https://img.shields.io/badge/MVC-black?logo=task&logoColor=61DAFB
+[mvp]: https://img.shields.io/badge/MVP-black?logo=task&logoColor=61DAFB
+[mvvm]: https://img.shields.io/badge/MVVM-black?logo=task&logoColor=61DAFB
+[modular]: https://img.shields.io/badge/Modular-black?logo=task&logoColor=61DAFB
+[fsd]: https://img.shields.io/badge/FSD-black?logo=task&logoColor=61DAFB
+[page-first]: https://img.shields.io/badge/Page--first-black?logo=task&logoColor=61DAFB
+[cursor]: https://img.shields.io/badge/Cursor-black?logo=cursor&logoColor=fff
+[figma]: https://img.shields.io/badge/Figma-black?logo=figma&logoColor=FF4785
+[pixso]: https://img.shields.io/badge/Pixso-black?logo=pixiv&logoColor=FF4785
+[postgresql]: https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=4169E1
+[datagrip]: https://img.shields.io/badge/DataGrip-black?logo=datagrip&logoColor=fff
+[postman]: https://img.shields.io/badge/Postman-black?logo=postman&logoColor=FF6C37
+[swift]: https://img.shields.io/badge/Swift-black?logo=swift&logoColor=F05138
+[uikit]: https://img.shields.io/badge/UIKit-black?logo=apple&logoColor=FFFFFF
+[snapkit]: https://img.shields.io/badge/SnapKit-black?logo=apple&logoColor=ffffff
+[coredata]: https://img.shields.io/badge/CoreData-black?logo=apple&logoColor=ffffff
+[xcode]: https://img.shields.io/badge/Xcode-black?logo=xcode&logoColor=147EFB
+[npm]: https://img.shields.io/badge/NPM-black?logo=npm&logoColor=CB3837
+[pnpm]: https://img.shields.io/badge/PNPM-black?logo=pnpm&logoColor=F69220
+[docker]: https://img.shields.io/badge/Docker-black?logo=docker&logoColor=2496ED
+[git]: https://img.shields.io/badge/Git-black?logo=git&logoColor=F05032
+[cursor-ai]: https://img.shields.io/badge/Cursor-black?logo=probot&logoColor=61DAFB
+[context-window]: https://img.shields.io/badge/Context%20Window%20Management-black?logo=probot&logoColor=61DAFB
+[rules]: https://img.shields.io/badge/Rules-black?logo=probot&logoColor=61DAFB
+[skills]: https://img.shields.io/badge/Skills-black?logo=probot&logoColor=61DAFB
+[commands]: https://img.shields.io/badge/Commands-black?logo=probot&logoColor=61DAFB
+[subagents]: https://img.shields.io/badge/Subagents-black?logo=probot&logoColor=61DAFB
 
 ## 📖 Stats
+
 [![Codewars](https://www.codewars.com/users/CendresChaudes/badges/large)](https://www.codewars.com/users/CendresChaudes)
