@@ -37,7 +37,7 @@
 
 | 💻 **Groups** | 🚀 **Languages and Tools** |
 | - | - |
-| Backend (Python) | ![Python][python]&nbsp;&nbsp;![Poetry][poetry]&nbsp;&nbsp;![Pytest][pytest]&nbsp;&nbsp;![FastApi][fast-api]&nbsp;&nbsp;![Pydantic][pydantic]&nbsp;&nbsp;![SQLAlchemy][sqlalchemy]&nbsp;&nbsp;![PostgreSQL][postgresql]  |
+| Backend | ![Python][python]&nbsp;&nbsp;![Poetry][poetry]&nbsp;&nbsp;![Pytest][pytest]&nbsp;&nbsp;![FastApi][fast-api]&nbsp;&nbsp;![Pydantic][pydantic]&nbsp;&nbsp;![SQLAlchemy][sqlalchemy]&nbsp;&nbsp;![PostgreSQL][postgresql]  |
 | iOS | ![Swift][swift]&nbsp;&nbsp;![UIKit][uikit]&nbsp;&nbsp;![SnapKit][snapkit]&nbsp;&nbsp;![CoreData][coredata]&nbsp;&nbsp;![Xcode][xcode] |
 
 [html]: https://img.shields.io/badge/HTML-black?logo=html5&logoColor=E34F26
