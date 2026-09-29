@@ -29,15 +29,15 @@
 | 💻 **Groups** | 🚀 **Languages and Tools** |
 | - | - |
 | Frontend | ![HTML][html]&nbsp;&nbsp;![Pug][pug]&nbsp;&nbsp;![CSS][css]&nbsp;&nbsp;![SCSS][scss]&nbsp;&nbsp;![BEM][bem]&nbsp;&nbsp;![TailwindCSS][tailwind]&nbsp;&nbsp;![UnoCSS][unocss]&nbsp;&nbsp;![TypeScript][typescript]&nbsp;&nbsp;![React][react]&nbsp;&nbsp;![React Hook Form][react-hook-form]&nbsp;&nbsp;![Redux][redux]&nbsp;&nbsp;![MobX][mobx]&nbsp;&nbsp;![Tanstack][tanstack]&nbsp;&nbsp;![Rspack][rspack]&nbsp;&nbsp;![Vite][vite]&nbsp;&nbsp;![Vitest][vitest]&nbsp;&nbsp;![Playwright][playwright]&nbsp;&nbsp;![AntDesign][antdesign]&nbsp;&nbsp;![Mantine][mantine]&nbsp;&nbsp;![Storybook][storybook]&nbsp;&nbsp;![MSW][msw]&nbsp;&nbsp;![MVC][mvc]&nbsp;&nbsp;![MVP][mvp]&nbsp;&nbsp;![MVVM][mvvm]&nbsp;&nbsp;![Modular][modular]&nbsp;&nbsp;![FSD][fsd]&nbsp;&nbsp;![Page-first][page-first] |
-| Backend (TypeScript) | ![TypeScript][typescript]&nbsp;&nbsp;![NodeJS][nodejs]&nbsp;&nbsp;![Nest][nest]&nbsp;&nbsp;![TypeORM][typeorm]&nbsp;&nbsp;![PostgreSQL][postgresql] |
-| Backend (Python) | ![Python][python]&nbsp;&nbsp;![FastApi][fast-api]&nbsp;&nbsp;![PostgreSQL][postgresql]  |
+| Backend | ![TypeScript][typescript]&nbsp;&nbsp;![NodeJS][nodejs]&nbsp;&nbsp;![Nest][nest]&nbsp;&nbsp;![TypeORM][typeorm]&nbsp;&nbsp;![PostgreSQL][postgresql] |
 | Tools | ![Figma][figma]&nbsp;&nbsp;![Pixso][pixso]&nbsp;&nbsp;![Swagger][swagger]&nbsp;&nbsp;![DataGrip][datagrip]&nbsp;&nbsp;![Postman][postman]&nbsp;&nbsp;![NPM][npm]&nbsp;&nbsp;![PNPM][pnpm]&nbsp;&nbsp;![Docker][docker]&nbsp;&nbsp;![Git][git] |
 | AI | ![Cursor][cursor-ai]&nbsp;&nbsp;![Context Window Management][context-window]&nbsp;&nbsp;![Rules][rules]&nbsp;&nbsp;![Skills][skills]&nbsp;&nbsp;![Commands][commands]&nbsp;&nbsp;![Subagents][subagents] |
 
-### 🎮 For fun
+### 🎮 Pet-projects
 
 | 💻 **Groups** | 🚀 **Languages and Tools** |
 | - | - |
+| Backend (Python) | ![Python][python]&nbsp;&nbsp;![Poetry][poetry]&nbsp;&nbsp;![Pytest][pytest]&nbsp;&nbsp;![FastApi][fast-api]&nbsp;&nbsp;![Pydantic][pydantic]&nbsp;&nbsp;![SQLAlchemy][sqlalchemy]&nbsp;&nbsp;![PostgreSQL][postgresql]  |
 | iOS | ![Swift][swift]&nbsp;&nbsp;![UIKit][uikit]&nbsp;&nbsp;![SnapKit][snapkit]&nbsp;&nbsp;![CoreData][coredata]&nbsp;&nbsp;![Xcode][xcode] |
 
 [html]: https://img.shields.io/badge/HTML-black?logo=html5&logoColor=E34F26
@@ -94,6 +94,10 @@
 [subagents]: https://img.shields.io/badge/Subagents-black?logo=probot&logoColor=61DAFB
 [python]: https://img.shields.io/badge/Python-black?logo=python&logoColor=3776AB
 [fast-api]: https://img.shields.io/badge/FastAPI-black?logo=fastapi&logoColor=009688
+[pydantic]: https://img.shields.io/badge/Pydantic-black?logo=pydantic&logoColor=E92063
+[sqlalchemy]: https://img.shields.io/badge/SQLAlchemy-black?logo=sqlalchemy&logoColor=D71F00
+[poetry]: https://img.shields.io/badge/Poetry-black?logo=poetry&logoColor=60A5FA
+[pytest]: https://img.shields.io/badge/Pytest-black?logo=pytest&logoColor=0A9EDC
 [go]: https://img.shields.io/badge/Go-black?logo=go&logoColor=00ADD8
 
 ## 📖 Stats
