@@ -28,7 +28,7 @@
 
 | 💻 **Groups** | 🚀 **Languages and Tools** |
 | - | - |
-| Frontend | ![HTML][html]&nbsp;&nbsp;![Pug][pug]&nbsp;&nbsp;![CSS][css]&nbsp;&nbsp;![SCSS][scss]&nbsp;&nbsp;![BEM][bem]&nbsp;&nbsp;![TailwindCSS][tailwind]&nbsp;&nbsp;![UnoCSS][unocss]&nbsp;&nbsp;![TypeScript][typescript]&nbsp;&nbsp;![React][react]&nbsp;&nbsp;![React Hook Form][react-hook-form]&nbsp;&nbsp;![Redux][redux]&nbsp;&nbsp;![MobX][mobx]&nbsp;&nbsp;![Tanstack][tanstack]&nbsp;&nbsp;![Rspack][rspack]&nbsp;&nbsp;![Vite][vite]&nbsp;&nbsp;![Vitest][vitest]&nbsp;&nbsp;![Playwright][playwright]&nbsp;&nbsp;![AntDesign][antdesign]&nbsp;&nbsp;![Mantine][mantine]&nbsp;&nbsp;![Storybook][storybook]&nbsp;&nbsp;![MSW][msw]&nbsp;&nbsp;![MVC][mvc]&nbsp;&nbsp;![MVP][mvp]&nbsp;&nbsp;![MVVM][mvvm]&nbsp;&nbsp;![Modular][modular]&nbsp;&nbsp;![FSD][fsd]&nbsp;&nbsp;![Page-first][page-first] |
+| Frontend | ![HTML][html]&nbsp;&nbsp;![Pug][pug]&nbsp;&nbsp;![CSS][css]&nbsp;&nbsp;![SCSS][scss]&nbsp;&nbsp;![BEM][bem]&nbsp;&nbsp;![TailwindCSS][tailwind]&nbsp;&nbsp;![UnoCSS][unocss]&nbsp;&nbsp;![TypeScript][typescript]&nbsp;&nbsp;![React][react]&nbsp;&nbsp;![React Hook Form][react-hook-form]&nbsp;&nbsp;![Redux][redux]&nbsp;&nbsp;![MobX][mobx]&nbsp;&nbsp;![Tanstack][tanstack]&nbsp;&nbsp;![Rspack][rspack]&nbsp;&nbsp;![Vite][vite]&nbsp;&nbsp;![Vitest][vitest]&nbsp;&nbsp;![Playwright][playwright]&nbsp;&nbsp;![AntDesign][antdesign]&nbsp;&nbsp;![Storybook][storybook]&nbsp;&nbsp;![MSW][msw]&nbsp;&nbsp;![Modular][modular]&nbsp;&nbsp;![FSD][fsd]&nbsp;&nbsp;![Page-first][page-first] |
 | Backend | ![TypeScript][typescript]&nbsp;&nbsp;![NodeJS][nodejs]&nbsp;&nbsp;![Nest][nest]&nbsp;&nbsp;![TypeORM][typeorm]&nbsp;&nbsp;![PostgreSQL][postgresql] |
 | Tools | ![Figma][figma]&nbsp;&nbsp;![Pixso][pixso]&nbsp;&nbsp;![Swagger][swagger]&nbsp;&nbsp;![DataGrip][datagrip]&nbsp;&nbsp;![Postman][postman]&nbsp;&nbsp;![NPM][npm]&nbsp;&nbsp;![PNPM][pnpm]&nbsp;&nbsp;![Docker][docker]&nbsp;&nbsp;![Git][git] |
 | AI | ![Cursor][cursor-ai]&nbsp;&nbsp;![Context Window Management][context-window]&nbsp;&nbsp;![Rules][rules]&nbsp;&nbsp;![Skills][skills]&nbsp;&nbsp;![Commands][commands]&nbsp;&nbsp;![Subagents][subagents] |
@@ -58,16 +58,12 @@
 [vitest]: https://img.shields.io/badge/Vitest-black?logo=vitest&logoColor=6E9F18
 [playwright]: https://custom-icon-badges.demolab.com/badge/Playwright-black?logo=playwright&logoColor=2EAD33
 [antdesign]: https://img.shields.io/badge/AntDesign-black?logo=antdesign&logoColor=0170FE
-[mantine]: https://img.shields.io/badge/Mantine-black?logo=mantine&logoColor=61DAFB
 [storybook]: https://img.shields.io/badge/Storybook-black?logo=storybook&logoColor=FF4785
 [msw]: https://img.shields.io/badge/MSW-black?logo=mockserviceworker&logoColor=FF6A33
 [nodejs]: https://img.shields.io/badge/NodeJS-black?logo=nodedotjs&logoColor=5FA04E
 [nest]: https://img.shields.io/badge/Nest-black?logo=nestjs&logoColor=E0234E
 [typeorm]: https://img.shields.io/badge/TypeORM-black?logo=typeorm&logoColor=FE0803
 [swagger]: https://img.shields.io/badge/Swagger-black?logo=swagger&logoColor=85EA2D
-[mvc]: https://img.shields.io/badge/MVC-black?logo=task&logoColor=61DAFB
-[mvp]: https://img.shields.io/badge/MVP-black?logo=task&logoColor=61DAFB
-[mvvm]: https://img.shields.io/badge/MVVM-black?logo=task&logoColor=61DAFB
 [modular]: https://img.shields.io/badge/Modular-black?logo=task&logoColor=61DAFB
 [fsd]: https://img.shields.io/badge/FSD-black?logo=task&logoColor=61DAFB
 [page-first]: https://img.shields.io/badge/Page--first-black?logo=task&logoColor=61DAFB
