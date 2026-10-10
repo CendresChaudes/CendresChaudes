@@ -28,7 +28,7 @@
 
 | 💻 **Groups** | 🚀 **Languages and Tools** |
 | - | - |
-| Frontend | ![HTML][html]&nbsp;&nbsp;![Pug][pug]&nbsp;&nbsp;![CSS][css]&nbsp;&nbsp;![SCSS][scss]&nbsp;&nbsp;![BEM][bem]&nbsp;&nbsp;![TailwindCSS][tailwind]&nbsp;&nbsp;![UnoCSS][unocss]&nbsp;&nbsp;![TypeScript][typescript]&nbsp;&nbsp;![React][react]&nbsp;&nbsp;![React Hook Form][react-hook-form]&nbsp;&nbsp;![Redux][redux]&nbsp;&nbsp;![MobX][mobx]&nbsp;&nbsp;![Tanstack][tanstack]&nbsp;&nbsp;![Rspack][rspack]&nbsp;&nbsp;![Vite][vite]&nbsp;&nbsp;![Vitest][vitest]&nbsp;&nbsp;![Playwright][playwright]&nbsp;&nbsp;![AntDesign][antdesign]&nbsp;&nbsp;![Storybook][storybook]&nbsp;&nbsp;![MSW][msw]&nbsp;&nbsp;![Modular][modular]&nbsp;&nbsp;![FSD][fsd]&nbsp;&nbsp;![Page-first][page-first] |
+| Frontend | ![HTML][html]&nbsp;&nbsp;![Pug][pug]&nbsp;&nbsp;![CSS][css]&nbsp;&nbsp;![SCSS][scss]&nbsp;&nbsp;![BEM][bem]&nbsp;&nbsp;![TailwindCSS][tailwind]&nbsp;&nbsp;![UnoCSS][unocss]&nbsp;&nbsp;![TypeScript][typescript]&nbsp;&nbsp;![React][react]&nbsp;&nbsp;![React Hook Form][react-hook-form]&nbsp;&nbsp;![Redux][redux]&nbsp;&nbsp;![Tanstack][tanstack]&nbsp;&nbsp;![Rspack][rspack]&nbsp;&nbsp;![Vite][vite]&nbsp;&nbsp;![Vitest][vitest]&nbsp;&nbsp;![Playwright][playwright]&nbsp;&nbsp;![AntDesign][antdesign]&nbsp;&nbsp;![Storybook][storybook]&nbsp;&nbsp;![MSW][msw]&nbsp;&nbsp;![Modular][modular]&nbsp;&nbsp;![FSD][fsd]&nbsp;&nbsp;![Page-first][page-first] |
 | Backend | ![TypeScript][typescript]&nbsp;&nbsp;![NodeJS][nodejs]&nbsp;&nbsp;![Nest][nest]&nbsp;&nbsp;![TypeORM][typeorm]&nbsp;&nbsp;![PostgreSQL][postgresql] |
 | Tools | ![Figma][figma]&nbsp;&nbsp;![Pixso][pixso]&nbsp;&nbsp;![Swagger][swagger]&nbsp;&nbsp;![DataGrip][datagrip]&nbsp;&nbsp;![Postman][postman]&nbsp;&nbsp;![NPM][npm]&nbsp;&nbsp;![PNPM][pnpm]&nbsp;&nbsp;![Docker][docker]&nbsp;&nbsp;![Git][git] |
 | AI | ![Cursor][cursor-ai]&nbsp;&nbsp;![Context Window Management][context-window]&nbsp;&nbsp;![Rules][rules]&nbsp;&nbsp;![Skills][skills]&nbsp;&nbsp;![Commands][commands]&nbsp;&nbsp;![Subagents][subagents] |
@@ -51,7 +51,6 @@
 [react]: https://img.shields.io/badge/React-black?logo=react&logoColor=61DAFB
 [react-hook-form]: https://img.shields.io/badge/React%20Hook%20Form-black?logo=reacthookform&logoColor=EC5990
 [redux]: https://img.shields.io/badge/Redux-black?logo=redux&logoColor=764ABC
-[mobx]: https://img.shields.io/badge/MobX-black?logo=mobx&logoColor=F95
 [tanstack]: https://img.shields.io/badge/Tanstack-black?logo=tanstack&logoColor=FF4154
 [rspack]: https://img.shields.io/badge/Rspack-black?logo=webpack&logoColor=F95
 [vite]: https://img.shields.io/badge/Vite-black?logo=vite&logoColor=646CFF
