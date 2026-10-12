@@ -31,13 +31,13 @@
 | Frontend | ![HTML][html]&nbsp;&nbsp;![Pug][pug]&nbsp;&nbsp;![CSS][css]&nbsp;&nbsp;![SCSS][scss]&nbsp;&nbsp;![BEM][bem]&nbsp;&nbsp;![TailwindCSS][tailwind]&nbsp;&nbsp;![UnoCSS][unocss]&nbsp;&nbsp;![TypeScript][typescript]&nbsp;&nbsp;![React][react]&nbsp;&nbsp;![React Hook Form][react-hook-form]&nbsp;&nbsp;![Redux][redux]&nbsp;&nbsp;![MobX][mobx]&nbsp;&nbsp;![Tanstack][tanstack]&nbsp;&nbsp;![Rspack][rspack]&nbsp;&nbsp;![Vite][vite]&nbsp;&nbsp;![Vitest][vitest]&nbsp;&nbsp;![Playwright][playwright]&nbsp;&nbsp;![AntDesign][antdesign]&nbsp;&nbsp;![Storybook][storybook]&nbsp;&nbsp;![MSW][msw]&nbsp;&nbsp;![Modular][modular]&nbsp;&nbsp;![FSD][fsd]&nbsp;&nbsp;![Page-first][page-first] |
 | Backend | ![TypeScript][typescript]&nbsp;&nbsp;![NodeJS][nodejs]&nbsp;&nbsp;![Nest][nest]&nbsp;&nbsp;![TypeORM][typeorm]&nbsp;&nbsp;![PostgreSQL][postgresql] |
 | Tools | ![Figma][figma]&nbsp;&nbsp;![Pixso][pixso]&nbsp;&nbsp;![Swagger][swagger]&nbsp;&nbsp;![DataGrip][datagrip]&nbsp;&nbsp;![Postman][postman]&nbsp;&nbsp;![NPM][npm]&nbsp;&nbsp;![PNPM][pnpm]&nbsp;&nbsp;![Docker][docker]&nbsp;&nbsp;![Git][git] |
-| AI | ![Cursor][cursor-ai]&nbsp;&nbsp;![Context Window Management][context-window]&nbsp;&nbsp;![Rules][rules]&nbsp;&nbsp;![Skills][skills]&nbsp;&nbsp;![Commands][commands]&nbsp;&nbsp;![Subagents][subagents] |
+| AI | ![Codex][codex-ai]&nbsp;&nbsp;![Cursor][cursor-ai]&nbsp;&nbsp;![Context Window Management][context-window]&nbsp;&nbsp;![Rules][rules]&nbsp;&nbsp;![Skills][skills]&nbsp;&nbsp;![Subagents][subagents] |
 
 ### 🎮 Pet-projects
 
 | 💻 **Groups** | 🚀 **Languages and Tools** |
 | - | - |
-| Backend | ![Python][python]&nbsp;&nbsp;![Poetry][poetry]&nbsp;&nbsp;![Pytest][pytest]&nbsp;&nbsp;![FastApi][fast-api]&nbsp;&nbsp;![Pydantic][pydantic]&nbsp;&nbsp;![SQLAlchemy][sqlalchemy]&nbsp;&nbsp;![PostgreSQL][postgresql]  |
+| Backend | ![Python][python]&nbsp;&nbsp;![Pytest][pytest]&nbsp;&nbsp;![Poetry][poetry]&nbsp;&nbsp;![FastApi][fast-api]&nbsp;&nbsp;![Pydantic][pydantic]&nbsp;&nbsp;![SQLAlchemy][sqlalchemy]&nbsp;&nbsp;![PostgreSQL][postgresql]  |
 | iOS | ![Swift][swift]&nbsp;&nbsp;![UIKit][uikit]&nbsp;&nbsp;![SnapKit][snapkit]&nbsp;&nbsp;![CoreData][coredata]&nbsp;&nbsp;![Xcode][xcode] |
 
 [html]: https://img.shields.io/badge/HTML-black?logo=html5&logoColor=E34F26
@@ -67,7 +67,6 @@
 [modular]: https://img.shields.io/badge/Modular-black?logo=task&logoColor=61DAFB
 [fsd]: https://img.shields.io/badge/FSD-black?logo=task&logoColor=61DAFB
 [page-first]: https://img.shields.io/badge/Page--first-black?logo=task&logoColor=61DAFB
-[cursor]: https://img.shields.io/badge/Cursor-black?logo=cursor&logoColor=fff
 [figma]: https://img.shields.io/badge/Figma-black?logo=figma&logoColor=FF4785
 [pixso]: https://img.shields.io/badge/Pixso-black?logo=pixiv&logoColor=FF4785
 [postgresql]: https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=4169E1
@@ -82,11 +81,11 @@
 [pnpm]: https://img.shields.io/badge/PNPM-black?logo=pnpm&logoColor=F69220
 [docker]: https://img.shields.io/badge/Docker-black?logo=docker&logoColor=2496ED
 [git]: https://img.shields.io/badge/Git-black?logo=git&logoColor=F05032
+[codex-ai]: https://img.shields.io/badge/Codex-black?logo=probot&logoColor=61DAFB
 [cursor-ai]: https://img.shields.io/badge/Cursor-black?logo=probot&logoColor=61DAFB
 [context-window]: https://img.shields.io/badge/Context%20Window%20Management-black?logo=probot&logoColor=61DAFB
 [rules]: https://img.shields.io/badge/Rules-black?logo=probot&logoColor=61DAFB
 [skills]: https://img.shields.io/badge/Skills-black?logo=probot&logoColor=61DAFB
-[commands]: https://img.shields.io/badge/Commands-black?logo=probot&logoColor=61DAFB
 [subagents]: https://img.shields.io/badge/Subagents-black?logo=probot&logoColor=61DAFB
 [python]: https://img.shields.io/badge/Python-black?logo=python&logoColor=3776AB
 [fast-api]: https://img.shields.io/badge/FastAPI-black?logo=fastapi&logoColor=009688
